@@ -4,7 +4,6 @@ Sélection des données permettant de mettre en place une solution,
 Amélioration de la qualité des données grâce à une stratégie de nettoyage.
 
 Data : 
-1 csv de la data brute
 1 csv de la data nettoyée (nommé intermediate)
 
 Notebooks:
